@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Muhammed Fawas</h2>
+<h2 align="center">Hi <span><img src="https://github.com/Fawaskp/Fawaskp/assets/68636810/3da2690c-46f7-46b9-a330-cec500a45cc9" alt="hand-wave" width="20" height="20"/></span>, I'm Muhammed Fawas</h2>
 <h3 align="center">A passionate django web-developer from India</h3>
 
 <h4 align="left">Connect with me:</h4>
